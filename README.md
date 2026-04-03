@@ -21,4 +21,4 @@ Copy them back after installation is complete.
 
 Special thanks to the author of [mr-fusion](https://github.com/MiSTer-devel/mr-fusion) for their work, and to all [MiSTer FPGA developers](https://github.com/MiSTer-devel) for their continued contributions.
 
-Please check [HOMEBREW_CREDITS.md](HOMEBREW_CREDITS.md) and [README_LICENSES.txt](README_LICENSES.txt) for additional contributions and credits.
+Please check [HOMEBREW_CREDITS.md](HOMEBREW_CREDITS.md) and [README_LICENSES.md](README_LICENSES.md) for additional contributions and credits.
