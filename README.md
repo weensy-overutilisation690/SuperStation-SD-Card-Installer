@@ -1,4 +1,4 @@
-# SuperStation-SD-Card-Installer
+# SuperStation One - Automatic SD Card Installer
 
 This repository hosts ready-to-flash SD card installer images for SuperStation (SS1).
 Each release provides a zipped image that automates setup and boots into MiSTer FPGA when installation is complete.
